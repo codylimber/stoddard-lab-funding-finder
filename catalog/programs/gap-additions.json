@@ -1,0 +1,461 @@
+[
+ {
+  "id": "cornell-rose-postdoctoral-fellowship",
+  "n": "Edward W. Rose Postdoctoral Fellowship",
+  "f": "Cornell Lab of Ornithology",
+  "c": "Postdoc fellowship",
+  "s": "watch",
+  "d": null,
+  "dt": "Annual competition, usually due about Sep 9. The fall 2025 round was paused; the Lab expected to resume in fall 2026, so check whether the 2026 round ran",
+  "a": "not confirmed",
+  "e": "Up to 24 months (two one-year appointments). The project must be closely tied to the Cornell Lab of Ornithology and the fellow is based mainly at the Lab.",
+  "u": "https://www.birds.cornell.edu/home/rose-postdoctoral-fellowship-annual-competition/",
+  "fields": [
+   "orni",
+   "behav",
+   "evo",
+   "eco",
+   "vision"
+  ],
+  "stages": [
+   "pd"
+  ],
+  "us": false,
+  "nom": false,
+  "added": "2026-11-09",
+  "checked": "2026-11-09",
+  "unv": "2026-27 round and dates not confirmed; the program was paused in 2025"
+ },
+ {
+  "id": "bwf-career-awards-scientific-interface",
+  "n": "Burroughs Wellcome Fund Career Awards at the Scientific Interface (CASI)",
+  "f": "Burroughs Wellcome Fund",
+  "c": "Career award",
+  "s": "watch",
+  "d": null,
+  "dt": "2027 cycle: letter of intent was due Aug 14, 2026; invited full proposals due Jan 11, 2027 (invitation only). Next cycle's letter of intent is expected around Aug 2027",
+  "a": "$560,000 over five years",
+  "e": "Bridges advanced postdoctoral training and the first three years as faculty; for researchers moving from the physical or computational sciences into biology, which fits structural-color work. One listing gives 12 to 60 months of postdoctoral experience; the RFP controls.",
+  "u": "https://www.bwfund.org/grants/interfaces-in-science/career-awards-at-the-scientific-interface/",
+  "fields": [
+   "color",
+   "optics",
+   "vision",
+   "comp"
+  ],
+  "stages": [
+   "pd"
+  ],
+  "us": false,
+  "nom": true,
+  "added": "2026-11-09",
+  "checked": "2026-11-09",
+  "unv": "eligibility rules and next-cycle dates not read from the RFP"
+ },
+ {
+  "id": "humboldt-research-fellowship",
+  "n": "Humboldt Research Fellowship for Postdocs",
+  "f": "Alexander von Humboldt Foundation",
+  "c": "Postdoc fellowship",
+  "s": "watch",
+  "d": null,
+  "dt": "Sources conflict: calls on Mar 15 and Jul 15, 2026 or a Nov 15, 2026 call. Confirm on the foundation's page",
+  "a": "About EUR 3,000 to 3,600 a month plus benefits (sources differ)",
+  "e": "Postdocs of any nationality hosting at a German institution (for example the Max Planck institutes in Seewiesen or Konstanz). Choose a host and approach them first.",
+  "u": "https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/humboldt-research-fellowship-for-postdocs",
+  "fields": [
+   "all"
+  ],
+  "stages": [
+   "pd"
+  ],
+  "us": false,
+  "nom": false,
+  "added": "2026-11-09",
+  "checked": "2026-11-09",
+  "unv": "dates and stipend conflict across secondary sources; the URL was not read"
+ },
+ {
+  "id": "newton-international-fellowships",
+  "n": "Newton International Fellowships",
+  "f": "The Royal Society and British Academy",
+  "c": "Postdoc fellowship",
+  "s": "watch",
+  "d": null,
+  "dt": "One guide lists Mar 11, 2027; an Oxford listing says March 2027 to be confirmed",
+  "a": "Up to GBP 280,000 over 2 years (one source)",
+  "e": "For early-career researchers from outside the UK to work at a UK institution (for example Bristol, Exeter or Cambridge for animal color and vision).",
+  "u": "https://royalsociety.org/grants/newton-international/",
+  "fields": [
+   "all"
+  ],
+  "stages": [
+   "pd"
+  ],
+  "us": false,
+  "nom": false,
+  "added": "2026-11-09",
+  "checked": "2026-11-09",
+  "unv": "dates and amount from secondary sources; the URL was not read"
+ },
+ {
+  "id": "schmidt-science-fellows",
+  "n": "Schmidt Science Fellows",
+  "f": "Schmidt Sciences",
+  "c": "Postdoc fellowship",
+  "s": "watch",
+  "d": null,
+  "dt": "The 2027 cycle closed: institutional nominations due May 15, 2026 and full applications Jul 13, 2026; cohort chosen Mar 2027",
+  "a": "$110,000 a year stipend (aggregator)",
+  "e": "Nomination through a partner institution (Princeton is a likely partner: ask the Dean for Research). For PhD scientists moving into a different field, which suits a physics-meets-biology project.",
+  "u": "https://schmidtsciencefellows.org/selection/how-to-apply/",
+  "fields": [
+   "all",
+   "comp",
+   "optics"
+  ],
+  "stages": [
+   "pd"
+  ],
+  "us": false,
+  "nom": true,
+  "added": "2026-11-09",
+  "checked": "2026-11-09",
+  "unv": "amount from an aggregator; confirm whether Princeton nominates"
+ },
+ {
+  "id": "nsf-physics-of-living-systems",
+  "n": "NSF Physics of Living Systems (PoLS)",
+  "f": "National Science Foundation (MPS Physics)",
+  "c": "Research grant",
+  "s": "watch",
+  "d": null,
+  "dt": "Now part of the consolidated MPS Physics solicitation NSF 26-523; target dates sit on the program page, not the solicitation",
+  "a": "not confirmed",
+  "e": "Physics-led research on living systems, including optics and mechanics of biological structures. Email the program officers before submitting.",
+  "u": "https://www.nsf.gov/funding/opportunities/pols-physics-living-systems/6673",
+  "fields": [
+   "color",
+   "optics",
+   "vision",
+   "comp"
+  ],
+  "stages": [
+   "tt"
+  ],
+  "us": false,
+  "nom": false,
+  "added": "2026-11-09",
+  "checked": "2026-11-09",
+  "unv": "no target date confirmed for 2026-27"
+ },
+ {
+  "id": "afosr-bio-inspired-research-baa",
+  "n": "AFOSR Research Interests BAA (bio-inspired sensing, photonics and materials)",
+  "f": "Air Force Office of Scientific Research",
+  "c": "Research grant",
+  "s": "rolling",
+  "d": null,
+  "dt": "Open broad agency announcement FA9550-26-S-0001; applicants usually start with a short white paper",
+  "a": "varies",
+  "e": "Programs include bio-inspired sensing, optoelectronics and photonics, and biomimetic materials. PI-initiated; contact a program officer first. Defense funding has its own terms (citizenship and reporting rules).",
+  "u": "https://www.grants.gov/",
+  "fields": [
+   "color",
+   "optics",
+   "vision"
+  ],
+  "stages": [
+   "tt"
+  ],
+  "us": false,
+  "nom": false,
+  "added": "2026-11-09",
+  "checked": "2026-11-09",
+  "unv": "read from search results only; no direct funder page opened"
+ },
+ {
+  "id": "princeton-honorific-fellowships",
+  "n": "Princeton Graduate School honorific fellowships (Jacobus, Procter, Dodds)",
+  "f": "Princeton University Graduate School",
+  "c": "Graduate fellowship",
+  "s": "watch",
+  "d": null,
+  "dt": "Not confirmed",
+  "a": "not confirmed",
+  "e": "Princeton's named graduate honors, including the Porter Ogden Jacobus Fellowship (top graduate honor) and the Charlotte Elizabeth Procter Fellowship. Terms, eligibility and how students are chosen were not read.",
+  "u": "https://gradschool.princeton.edu/honorific-fellowships",
+  "fields": [
+   "all"
+  ],
+  "stages": [
+   "gr"
+  ],
+  "us": false,
+  "nom": false,
+  "added": "2026-11-09",
+  "checked": "2026-11-09",
+  "unv": "listed on the Graduate School page; details not read",
+  "pu": {
+   "t": "Ask the EEB graduate office whether the department nominates",
+   "u": "https://gradschool.princeton.edu/honorific-fellowships"
+  }
+ },
+ {
+  "id": "aps-lewis-and-clark-fund",
+  "n": "APS Lewis and Clark Fund for Exploration and Field Research",
+  "f": "American Philosophical Society",
+  "c": "Research grant",
+  "s": "open",
+  "d": "2026-11-16",
+  "dt": "Applications due Nov 16, 2026 and letters of support Nov 13, 2026; notification in April 2027",
+  "a": "Up to about $5,400 per award (third-party listing)",
+  "e": "Field research and exploration, with doctoral students the main applicants (two letters, one from the advisor). Projects start May 2027 or later. Reapplication allowed after two years; preference to first-time applicants.",
+  "u": "https://www.amphilsoc.org/grants/research",
+  "fields": [
+   "eco",
+   "field",
+   "orni",
+   "evo"
+  ],
+  "stages": [
+   "gr"
+  ],
+  "us": false,
+  "nom": false,
+  "added": "2026-11-09",
+  "checked": "2026-11-09",
+  "unv": "postdoc eligibility and the amount are from secondary listings"
+ },
+ {
+  "id": "rufford-small-grants",
+  "n": "Rufford Small Grants for Nature Conservation",
+  "f": "The Rufford Foundation",
+  "c": "Research grant",
+  "s": "rolling",
+  "d": null,
+  "dt": "Rolling per most sources; some aggregators give Oct 31 or Dec 31, 2026",
+  "a": "First grant up to GBP 7,000; second up to GBP 8,000; Booster up to GBP 12,000; Completion up to GBP 18,000",
+  "e": "Aimed at early-career conservationists working in eligible developing-economy countries on threatened species or habitats. Check country rules before investing time.",
+  "u": "https://apply.ruffordsmallgrants.org/",
+  "fields": [
+   "cons",
+   "field",
+   "eco",
+   "orni"
+  ],
+  "stages": [
+   "gr",
+   "pd"
+  ],
+  "us": false,
+  "nom": false,
+  "added": "2026-11-09",
+  "checked": "2026-11-09",
+  "unv": "eligibility by country and any deadline not confirmed"
+ },
+ {
+  "id": "idea-wild-equipment-grants",
+  "n": "IDEA WILD Small Equipment Grants",
+  "f": "IDEA WILD",
+  "c": "Research grant",
+  "s": "rolling",
+  "d": null,
+  "dt": "Rolling per secondary listings",
+  "a": "Equipment up to $1,500 including shipping",
+  "e": "Individuals (not organizations) apply for field equipment; conservation impact and need weigh most; shipping takes weeks to two months.",
+  "u": "https://ideawild.org/application-guidelines/",
+  "fields": [
+   "field",
+   "cons",
+   "orni"
+  ],
+  "stages": [
+   "gr",
+   "pd"
+  ],
+  "us": false,
+  "nom": false,
+  "added": "2026-11-09",
+  "checked": "2026-11-09",
+  "unv": "from aggregator listings; the guidelines page was not opened"
+ },
+ {
+  "id": "afo-bergstrom-research-award",
+  "n": "AFO E. Alexander Bergstrom Memorial Research Award",
+  "f": "Association of Field Ornithologists",
+  "c": "Research grant",
+  "s": "watch",
+  "d": null,
+  "dt": "An aggregator expects a February 2027 deadline; the last firm date found was Feb 10, 2025",
+  "a": "Up to $1,000 (domestic) or $1,500 (Latin American applicants)",
+  "e": "The applicant or the supervisor must be an AFO member. Usually about five awards a year. AFO added a separate Skutch grant for Latin America in 2024, so the Latin American track may have moved.",
+  "u": "https://afonet.org/grants-awards/",
+  "fields": [
+   "orni",
+   "eco",
+   "evo",
+   "behav",
+   "vision",
+   "color"
+  ],
+  "stages": [
+   "gr",
+   "pd"
+  ],
+  "us": false,
+  "nom": false,
+  "added": "2026-11-09",
+  "checked": "2026-11-09",
+  "unv": "2027 date is an estimate"
+ },
+ {
+  "id": "mcz-ernst-mayr-travel-grants",
+  "n": "MCZ Ernst Mayr Travel Grants in Animal Systematics",
+  "f": "Harvard Museum of Comparative Zoology",
+  "c": "Travel & small grant",
+  "s": "open",
+  "d": "2027-04-01",
+  "dt": "Deadlines Oct 15 and Apr 1 each year, 5 PM; decisions within five weeks. Next: Apr 1, 2027",
+  "a": "Up to $2,500 for travel, lodging and supplies",
+  "e": "Open to all, preference for projects using MCZ collections; visits to other museums are considered. A letter or email from each collection you will visit is required. J-1 visa holders need host approval.",
+  "u": "https://www.mcz.harvard.edu/ernst-mayr-travel-grants",
+  "fields": [
+   "evo",
+   "orni",
+   "color"
+  ],
+  "stages": [
+   "gr",
+   "pd"
+  ],
+  "us": false,
+  "nom": false,
+  "added": "2026-11-09",
+  "checked": "2026-11-09",
+  "unv": "amount from an aggregator; dates read from the MCZ page via search results"
+ },
+ {
+  "id": "mcz-putnam-expedition-grants",
+  "n": "MCZ Putnam Expedition Grants",
+  "f": "Harvard Museum of Comparative Zoology",
+  "c": "Research grant",
+  "s": "watch",
+  "d": null,
+  "dt": "Not confirmed",
+  "a": "not confirmed",
+  "e": "Field expedition funding from the MCZ; terms and dates not read.",
+  "u": "https://mcz.harvard.edu/putnam-expedition-grants",
+  "fields": [
+   "field",
+   "eco",
+   "evo"
+  ],
+  "stages": [
+   "gr"
+  ],
+  "us": false,
+  "nom": false,
+  "added": "2026-11-09",
+  "checked": "2026-11-09",
+  "unv": "listed in search results only"
+ },
+ {
+  "id": "mcz-biodiversity-postdoctoral-fellowship",
+  "n": "MCZ Biodiversity Postdoctoral Fellowship",
+  "f": "Harvard Museum of Comparative Zoology",
+  "c": "Postdoc fellowship",
+  "s": "watch",
+  "d": null,
+  "dt": "Not confirmed",
+  "a": "not confirmed",
+  "e": "Postdoctoral fellowship at the MCZ, which holds a large bird collection.",
+  "u": "https://mcz.harvard.edu/biodiversity-postdoctoral-fellowship-program",
+  "fields": [
+   "evo",
+   "orni",
+   "eco"
+  ],
+  "stages": [
+   "pd"
+  ],
+  "us": false,
+  "nom": false,
+  "added": "2026-11-09",
+  "checked": "2026-11-09",
+  "unv": "listed in search results only"
+ },
+ {
+  "id": "smbe-young-investigator-travel-award",
+  "n": "SMBE Young Investigator Travel Award",
+  "f": "Society for Molecular Biology and Evolution",
+  "c": "Training & travel",
+  "s": "watch",
+  "d": null,
+  "dt": "2027 deadline not found",
+  "a": "not confirmed",
+  "e": "SMBE member graduate students and postdocs presenting at the SMBE meeting.",
+  "u": "https://www.smbe.org/young-investigator-travel-award",
+  "fields": [
+   "evo",
+   "gen"
+  ],
+  "stages": [
+   "gr",
+   "pd"
+  ],
+  "us": false,
+  "nom": false,
+  "added": "2026-11-09",
+  "checked": "2026-11-09",
+  "unv": "no 2027 date or amount found"
+ },
+ {
+  "id": "arvo-foundation-travel-grants",
+  "n": "ARVO Foundation Travel Grants",
+  "f": "Association for Research in Vision and Ophthalmology",
+  "c": "Training & travel",
+  "s": "watch",
+  "d": null,
+  "dt": "Tied to the ARVO annual meeting; next date not read",
+  "a": "38 named travel grants, supporting over 400 researchers a year",
+  "e": "Need an accepted abstract for the ARVO annual meeting. Trainees with an ARVO travel award or NRSA support may be ineligible for some programs. ARVO is the main vision-science meeting if the lab wants to present there.",
+  "u": "https://www.arvo.org/awards-grants/travel-grants",
+  "fields": [
+   "vision",
+   "color"
+  ],
+  "stages": [
+   "gr",
+   "pd"
+  ],
+  "us": false,
+  "nom": false,
+  "added": "2026-11-09",
+  "checked": "2026-11-09",
+  "unv": "dates and amounts not read"
+ },
+ {
+  "id": "ndseg-fellowship",
+  "n": "NDSEG Fellowship",
+  "f": "U.S. Department of Defense",
+  "c": "Graduate fellowship",
+  "s": "watch",
+  "d": null,
+  "dt": "FY2027 application closed Oct 30, 2026; the next call (FY2028) should open in fall 2027",
+  "a": "not confirmed",
+  "e": "PhD fellowship in STEM fields, including biosciences and chemical and materials sciences. Open to US citizens and nationals (confirm).",
+  "u": "https://ndseg.sysplus.com/",
+  "fields": [
+   "all"
+  ],
+  "stages": [
+   "gr"
+  ],
+  "us": true,
+  "nom": false,
+  "added": "2026-11-09",
+  "checked": "2026-11-09",
+  "unv": "citizenship rule and amount not read from the program page"
+ }
+]
