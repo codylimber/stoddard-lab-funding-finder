@@ -1,0 +1,248 @@
+[
+ {
+  "id": "princeton-deans-fund-scholarly-travel",
+  "n": "Dean's Fund for Scholarly Travel",
+  "f": "Princeton University Graduate School",
+  "c": "Travel & small grant",
+  "s": "rolling",
+  "d": null,
+  "dt": "Reviewed quarterly; apply in SAFE",
+  "a": "Up to $600 per year",
+  "e": "PhD students from the third year of regular enrollment through the first DCE year, invited to present a sole-authored paper or work at a conference. Co-authored and first-authored papers do not qualify. Preference goes to humanities and social sciences students in later years without similar faculty grant support, so check fit with EEB.",
+  "u": "https://gradschool.princeton.edu/financial-support/additional-funding-resources/student-activity-funding",
+  "fields": [
+   "all"
+  ],
+  "stages": [
+   "gr"
+  ],
+  "us": false,
+  "nom": false,
+  "added": "2026-11-09",
+  "checked": "2026-11-09",
+  "unv": "the earlier $700 and $500 figures are out of date; confirm in SAFE",
+  "pu": {
+   "t": "Apply in SAFE; applications are reviewed quarterly",
+   "u": "https://gradschool.princeton.edu/financial-support/additional-funding-resources/student-activity-funding"
+  }
+ },
+ {
+  "id": "princeton-gradfutures-professional-development",
+  "n": "Professional Development Funding for Student Groups",
+  "f": "Princeton University Graduate School (GradFUTURES)",
+  "c": "Travel & small grant",
+  "s": "watch",
+  "d": null,
+  "dt": "Proposals reviewed twice a year; meet an assistant dean on the GradFUTURES team first",
+  "a": "Typically up to $500",
+  "e": "Groups of graduate students who start or lead a professional development program for peers: symposia, networking events, seminar series, boot camps, workshops. Preference for interdisciplinary proposals.",
+  "u": "https://gradschool.princeton.edu/financial-support/additional-funding-resources/student-activity-funding",
+  "fields": [
+   "all"
+  ],
+  "stages": [
+   "gr"
+  ],
+  "us": false,
+  "nom": false,
+  "added": "2026-11-09",
+  "checked": "2026-11-09",
+  "pu": {
+   "t": "Meet GradFUTURES first, then apply; reviewed twice a year",
+   "u": "https://gradschool.princeton.edu/financial-support/additional-funding-resources/student-activity-funding"
+  }
+ },
+ {
+  "id": "princeton-plas-summer-research",
+  "n": "PLAS Summer Research Grants",
+  "f": "Princeton Program in Latin American Studies",
+  "c": "Research grant",
+  "s": "watch",
+  "d": null,
+  "dt": "Summer cycle; apply in SAFE (dates are posted there)",
+  "a": "Up to $3,500",
+  "e": "Graduate students doing pre-dissertation or dissertation research relevant to Latin America who can work in the local language. Covers coach travel, room and board and living costs; not equipment or materials. Two letters, transcript and a budget. PLAS also urges applying to your home department and PIIRS.",
+  "u": "https://plas.princeton.edu/funding/graduate/summer-research",
+  "fields": [
+   "field",
+   "eco"
+  ],
+  "stages": [
+   "gr"
+  ],
+  "us": false,
+  "nom": false,
+  "added": "2026-11-09",
+  "checked": "2026-11-09",
+  "pu": {
+   "t": "Apply through SAFE; also apply to your department and PIIRS",
+   "u": "https://gradschool.princeton.edu/financial-support/additional-funding-resources/student-activity-funding"
+  }
+ },
+ {
+  "id": "princeton-safe-portal",
+  "n": "SAFE: Student Activity Funding Engine",
+  "f": "Princeton University Graduate School",
+  "c": "Resources & compute",
+  "s": "rolling",
+  "d": null,
+  "dt": "Eligibility, deadlines and applications for supplemental graduate funds are posted in SAFE",
+  "a": "varies by fund",
+  "e": "One-stop portal for supplemental Princeton graduate funding: travel, summer research, events. Natural science and engineering students are normally supported over the summer by their departments, so ask EEB about summer funding.",
+  "u": "https://gradschool.princeton.edu/financial-support/additional-funding-resources/student-activity-funding",
+  "fields": [
+   "all"
+  ],
+  "stages": [
+   "gr"
+  ],
+  "us": false,
+  "nom": false,
+  "added": "2026-11-09",
+  "checked": "2026-11-09",
+  "pu": {
+   "t": "Check SAFE for current dates",
+   "u": "https://gradschool.princeton.edu/financial-support/additional-funding-resources/student-activity-funding"
+  }
+ },
+ {
+  "id": "princeton-presidential-postdoctoral-fellows",
+  "n": "Presidential Postdoctoral Research Fellows",
+  "f": "Princeton University",
+  "c": "Postdoc fellowship",
+  "s": "watch",
+  "d": null,
+  "dt": "Thirteen fellows were announced Oct 29, 2026; the next call and dates were not found",
+  "a": "not confirmed",
+  "e": "Princeton postdoctoral fellowship program; eligibility, fields and dates not read from the program page.",
+  "u": "https://www.princeton.edu/news/2026/10/29/thirteen-scholars-named-presidential-postdoctoral-research-fellows",
+  "fields": [
+   "all"
+  ],
+  "stages": [
+   "pd"
+  ],
+  "us": false,
+  "nom": false,
+  "added": "2026-11-09",
+  "checked": "2026-11-09",
+  "unv": "seen only in a news item: confirm eligibility, dates and how to apply",
+  "pu": {
+   "t": "Check the Office of the Dean of the Faculty for the next call",
+   "u": ""
+  }
+ },
+ {
+  "id": "princeton-eeb-postdoctoral-fellows",
+  "n": "EEB Postdoctoral Fellows Program",
+  "f": "Princeton Ecology and Evolutionary Biology",
+  "c": "Postdoc fellowship",
+  "s": "watch",
+  "d": null,
+  "dt": "Dates not confirmed",
+  "a": "Up to three years with a research fund (older text)",
+  "e": "Princeton EEB's own postdoc fellowship: one-year appointments renewable, at most three years, with a research fund. The text found was for an earlier start year.",
+  "u": "https://eeb.princeton.edu/",
+  "fields": [
+   "eco",
+   "evo",
+   "behav",
+   "orni"
+  ],
+  "stages": [
+   "pd"
+  ],
+  "us": false,
+  "nom": false,
+  "added": "2026-11-09",
+  "checked": "2026-11-09",
+  "unv": "from a search snippet of an older posting: confirm the current program",
+  "pu": {
+   "t": "Ask the EEB department office",
+   "u": ""
+  }
+ },
+ {
+  "id": "princeton-hmei-environmental-fellows",
+  "n": "HMEI Environmental Fellows Program",
+  "f": "Princeton High Meadows Environmental Institute",
+  "c": "Postdoc fellowship",
+  "s": "watch",
+  "d": null,
+  "dt": "The AY2026-27 deadline was Oct 31, 2025; if the pattern holds the AY2027-28 deadline was about Oct 31, 2026 and may have just passed",
+  "a": "$65,000 to $70,000 salary plus travel and research allowance",
+  "e": "Postdocs with under 5 years of research experience since the PhD. Applicants name one or two Princeton faculty sponsors before applying. One year, renewable. Good thematic fit for ecology and biodiversity; a sensory-biology project needs a clear environmental angle.",
+  "u": "https://environment.princeton.edu/",
+  "fields": [
+   "eco",
+   "cons"
+  ],
+  "stages": [
+   "pd"
+  ],
+  "us": false,
+  "nom": false,
+  "added": "2026-11-09",
+  "checked": "2026-11-09",
+  "unv": "from an aggregator listing of the previous cycle: confirm the current call on the HMEI site",
+  "pu": {
+   "t": "Needs a Princeton faculty sponsor",
+   "u": ""
+  }
+ },
+ {
+  "id": "princeton-odbi-postdoc",
+  "n": "Omenn-Darling Bioengineering Institute (ODBI) Postdoctoral Fellowship",
+  "f": "Princeton Omenn-Darling Bioengineering Institute",
+  "c": "Postdoc fellowship",
+  "s": "watch",
+  "d": null,
+  "dt": "Cycle not confirmed (a posting found had a stale Jan 31, 2025 deadline)",
+  "a": "$70,000 salary plus conference travel allowance (aggregator)",
+  "e": "PhD within 2 years; direct application with a Princeton faculty mentor letter. A bioengineering program, so a stretch for feather structural color unless framed through biomimetic or photonic engineering with an ODBI co-mentor.",
+  "u": "https://odbi.princeton.edu/",
+  "fields": [
+   "color",
+   "optics"
+  ],
+  "stages": [
+   "pd"
+  ],
+  "us": false,
+  "nom": false,
+  "added": "2026-11-09",
+  "checked": "2026-11-09",
+  "unv": "aggregator posting only; ODBI's site blocked automated checks",
+  "pu": {
+   "t": "Needs a Princeton faculty mentor letter",
+   "u": ""
+  }
+ },
+ {
+  "id": "princeton-dean-for-research-funds",
+  "n": "Dean for Research funding programs",
+  "f": "Princeton Office of the Dean for Research",
+  "c": "Pilot / seed",
+  "s": "watch",
+  "d": null,
+  "dt": "Not confirmed",
+  "a": "not confirmed",
+  "e": "Mostly faculty-facing funds (for example Sustainability of Our Planet and the Schmidt Transformative Technology Fund). Postdoc eligibility not confirmed.",
+  "u": "https://research.princeton.edu/",
+  "fields": [
+   "eco"
+  ],
+  "stages": [
+   "tt"
+  ],
+  "us": false,
+  "nom": false,
+  "added": "2026-11-09",
+  "checked": "2026-11-09",
+  "unv": "sub-pages were not opened: confirm eligibility and dates",
+  "pu": {
+   "t": "Ask the lab PI whether any fund fits",
+   "u": ""
+  }
+ }
+]

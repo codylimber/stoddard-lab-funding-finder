@@ -1,0 +1,33 @@
+name: Check catalog
+on:
+  push:
+  pull_request:
+  schedule:
+    - cron: "0 13 * * 1"   # Mondays: open the weekly recheck worklist
+  workflow_dispatch:
+permissions:
+  contents: read
+  issues: write
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Validate catalog and confirm the built page is current
+        run: |
+          python3 engine/build.py --check
+          cp index.html /tmp/index.before
+          python3 engine/build.py
+          # the page date stamp changes daily, so compare ignoring it
+          diff <(sed 's/"updated":"[^"]*"//' /tmp/index.before) <(sed 's/"updated":"[^"]*"//' index.html) >/dev/null || { echo "index.html is out of date: run python3 engine/build.py and commit"; exit 1; }
+      - name: Open the weekly recheck worklist
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          python3 engine/recheck_report.py > /tmp/report.md
+          gh issue create --title "Weekly recheck $(date +%F)" --label recheck --body-file /tmp/report.md || \
+          gh issue create --title "Weekly recheck $(date +%F)" --body-file /tmp/report.md

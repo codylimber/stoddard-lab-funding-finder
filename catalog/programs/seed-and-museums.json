@@ -1,0 +1,402 @@
+[
+ {
+  "id": "company-of-biologists-travelling-fellowships",
+  "n": "Company of Biologists Travelling Fellowships",
+  "f": "The Company of Biologists",
+  "c": "Travel & small grant",
+  "s": "open",
+  "d": "2027-02-05",
+  "dt": "Rounds: Feb 5, 2027 (travel after Mar 22), May 7, Aug 6 and Nov 5, 2027. The Oct 23, 2026 round has passed",
+  "a": "Up to £3,000 for a collaborative lab visit (travel, subsistence, accommodation, visa, bench fees)",
+  "e": "Early-career scientists: graduate students and postdocs. No nationality restriction and no membership needed. Apply through one of the journals Development, Journal of Cell Science or Journal of Experimental Biology. One journal per round, one fellowship per two years; travel within six months of award. Handbook linked on the page is the 2025 edition.",
+  "u": "https://www.biologists.com/grants/travelling-fellowships/",
+  "fields": [
+   "devo",
+   "eco",
+   "evo",
+   "vision",
+   "color",
+   "behav"
+  ],
+  "stages": [
+   "gr",
+   "pd"
+  ],
+  "us": false,
+  "nom": false,
+  "added": "2026-11-09",
+  "checked": "2026-11-09"
+ },
+ {
+  "id": "sigma-xi-grants-in-aid",
+  "n": "Sigma Xi Grants in Aid of Research (GIAR)",
+  "f": "Sigma Xi",
+  "c": "Research grant",
+  "s": "open",
+  "d": "2027-03-15",
+  "dt": "Two cycles a year: Mar 15 (form opens Dec 15; decisions mid-May) and Oct 1 (form opens Jul 1). The Oct 1, 2026 cycle has passed",
+  "a": "$500 to $5,000 for graduate student members; $500 to $2,000 for undergraduate members; up to $1,000 for non-members. Designated funds: up to $2,500 for vision research and $5,000 for astronomy",
+  "e": "Undergraduate and graduate students (postdocs are not mentioned and appear excluded). A Sigma Xi membership raises the cap, and the vision-research fund fits this lab's students. Application is on an external portal.",
+  "u": "https://www.sigmaxi.org/programs/grants-in-aid-of-research",
+  "fields": [
+   "all",
+   "vision"
+  ],
+  "stages": [
+   "ug",
+   "gr"
+  ],
+  "us": false,
+  "nom": false,
+  "added": "2026-11-09",
+  "checked": "2026-11-09",
+  "unv": "the year of the Mar 15 deadline is inferred from the cycle"
+ },
+ {
+  "id": "wilson-ornithological-society-grants",
+  "n": "Wilson Ornithological Society Research Grants",
+  "f": "Wilson Ornithological Society",
+  "c": "Research grant",
+  "s": "watch",
+  "d": null,
+  "dt": "2026 application period closed; check around the end of 2026 for the next window",
+  "a": "Fuertes: up to two awards of $5,000 a year. Stewart: up to four of $2,000. WOS Research Grants: budgets up to $3,000. Hall/Mayfield: one $2,000 (independent researchers only)",
+  "e": "Applicants should be current WOS members. Fuertes is open to all ornithologists, with graduate students and young professionals preferred; WOS Research Grants are limited to master's and undergraduate students; Hall/Mayfield is for researchers without institutional funds.",
+  "u": "https://wilsonsociety.org/awards/research-grants/",
+  "fields": [
+   "orni",
+   "eco",
+   "evo",
+   "behav",
+   "vision",
+   "color"
+  ],
+  "stages": [
+   "gr",
+   "pd"
+  ],
+  "us": false,
+  "nom": false,
+  "added": "2026-11-09",
+  "checked": "2026-11-09",
+  "unv": "no 2027 date posted"
+ },
+ {
+  "id": "aos-bridge-completion-grants",
+  "n": "AOS Bridge/Completion Grants",
+  "f": "American Ornithological Society",
+  "c": "Research grant",
+  "s": "watch",
+  "d": null,
+  "dt": "The only call closed May 15, 2026. The page says a revised call may come later in 2026, depending on funding",
+  "a": "$5,000 to about $35,000 per grant ($400,000 pool)",
+  "e": "A one-time stop-gap for researchers who lost federal funding in 2025-26. The PI must be at a higher-education institution or qualifying nonprofit and an AOS member; enrolled students cannot be PI. Proposals that support postdocs and pre-tenure faculty are encouraged. No indirect costs.",
+  "u": "https://americanornithology.org/awards-grants/research-grants/bridge-completion-grants/",
+  "fields": [
+   "orni",
+   "eco",
+   "evo",
+   "behav",
+   "vision",
+   "color"
+  ],
+  "stages": [
+   "pd",
+   "tt"
+  ],
+  "us": false,
+  "nom": false,
+  "added": "2026-11-09",
+  "checked": "2026-11-09",
+  "unv": "no new call confirmed"
+ },
+ {
+  "id": "aos-latin-american-caribbean-conservation-grant",
+  "n": "AOS Latin American/Caribbean Conservation Research Grant",
+  "f": "American Ornithological Society",
+  "c": "Research grant",
+  "s": "watch",
+  "d": null,
+  "dt": "2026 deadline was about Feb 27 (closed); the next call is usually announced in December",
+  "a": "Up to $5,000",
+  "e": "Early-career scientists from Latin America or the Caribbean with an MS or PhD within 5 years; enrolled students excluded. Relevant only to collaborators from the region.",
+  "u": "https://americanornithology.org/awards-grants/research-grants/latin-american-caribbean-conservation-research-grant/",
+  "fields": [
+   "orni",
+   "cons",
+   "eco"
+  ],
+  "stages": [
+   "pd"
+  ],
+  "us": false,
+  "nom": false,
+  "added": "2026-11-09",
+  "checked": "2026-11-09",
+  "unv": "deadline from the seed list, not re-read"
+ },
+ {
+  "id": "abs-developing-nations-grant",
+  "n": "Animal Behavior Society Developing Nations Research Grant",
+  "f": "Animal Behavior Society",
+  "c": "Research grant",
+  "s": "open",
+  "d": "2026-12-15",
+  "dt": "Same cycle as the student research grants (Dec 15, 2026)",
+  "a": "about $500 to $2,000 (aggregator)",
+  "e": "Students and other researchers based in developing nations. Relevant only to collaborators from those countries.",
+  "u": "https://www.animalbehaviorsociety.org/",
+  "fields": [
+   "behav",
+   "eco"
+  ],
+  "stages": [
+   "gr",
+   "pd"
+  ],
+  "us": false,
+  "nom": false,
+  "added": "2026-11-09",
+  "checked": "2026-11-09",
+  "unv": "aggregator listing; the linked ABS page was not readable"
+ },
+ {
+  "id": "msca-postdoctoral-fellowships",
+  "n": "MSCA Postdoctoral Fellowships (Marie Sklodowska-Curie Actions)",
+  "f": "European Commission (Horizon Europe)",
+  "c": "Postdoc fellowship",
+  "s": "watch",
+  "d": null,
+  "dt": "The 2026 call closed about Sep 9, 2026; the 2027 call is not posted",
+  "a": "not stated per fellow (about EUR 434M total call budget for 2026)",
+  "e": "European Fellowships (12 to 24 months) are open to any nationality; Global Fellowships need EU or associated-country nationality or long residency plus a return phase. A route to a European host lab.",
+  "u": "https://marie-sklodowska-curie-actions.ec.europa.eu/funding/msca-postdoctoral-fellowships-2026",
+  "fields": [
+   "all"
+  ],
+  "stages": [
+   "pd"
+  ],
+  "us": false,
+  "nom": false,
+  "added": "2026-11-09",
+  "checked": "2026-11-09",
+  "unv": "2027 call dates not posted"
+ },
+ {
+  "id": "amnh-chapman-research-grants",
+  "n": "AMNH Frank M. Chapman Memorial Fund: Research Grants",
+  "f": "American Museum of Natural History",
+  "c": "Research grant",
+  "s": "open",
+  "d": "2026-11-30",
+  "dt": "Submission deadline Nov 30, 2026; awards announced by Apr 2, 2027. One competition a year",
+  "a": "$1,000 to $3,500 (one aggregator says up to $2,000)",
+  "e": "For the evolutionary biology of birds, with specimen-based and expedition work favored. The seed list says graduate students only; no salary or stipend is funded. Birds go to Chapman, not the general Collection Study Grants.",
+  "u": "https://www.amnh.org/our-research/vertebrate-zoology/ornithology/grants",
+  "fields": [
+   "orni",
+   "eco",
+   "evo",
+   "behav",
+   "vision",
+   "color"
+  ],
+  "stages": [
+   "gr"
+  ],
+  "us": false,
+  "nom": false,
+  "added": "2026-11-09",
+  "checked": "2026-11-09",
+  "unv": "dates match two search results, but the AMNH page blocks my fetch: confirm amount and eligibility"
+ },
+ {
+  "id": "amnh-chapman-postdoc-fellowship",
+  "n": "AMNH Frank M. Chapman Memorial Fund: Postdoctoral Fellowships",
+  "f": "American Museum of Natural History",
+  "c": "Postdoc fellowship",
+  "s": "watch",
+  "d": null,
+  "dt": "Posted periodically with no fixed annual date; ask the AMNH ornithology department",
+  "a": "not published",
+  "e": "For the evolutionary biology of birds.",
+  "u": "https://www.amnh.org/our-research/vertebrate-zoology/ornithology/grants",
+  "fields": [
+   "orni",
+   "eco",
+   "evo",
+   "behav",
+   "vision",
+   "color"
+  ],
+  "stages": [
+   "pd"
+  ],
+  "us": false,
+  "nom": false,
+  "added": "2026-11-09",
+  "checked": "2026-11-09",
+  "unv": "from the seed list; the AMNH page blocks my fetch"
+ },
+ {
+  "id": "amnh-collection-study-grants",
+  "n": "AMNH Collection Study Grants (non-bird collections)",
+  "f": "American Museum of Natural History",
+  "c": "Travel & small grant",
+  "s": "watch",
+  "d": null,
+  "dt": "The 2026-27 deadline was May 1, 2026 (passed); next date not posted",
+  "a": "$500 to $1,500, to partly cover travel and living costs",
+  "e": "For visiting AMNH collections. Bird proposals must apply to the Chapman Fund instead. Applicants within daily commuting range of AMNH are excluded.",
+  "u": "https://www.amnh.org/our-research/vertebrate-zoology/ornithology/grants",
+  "fields": [
+   "evo",
+   "eco"
+  ],
+  "stages": [
+   "gr",
+   "pd"
+  ],
+  "us": false,
+  "nom": false,
+  "added": "2026-11-09",
+  "checked": "2026-11-09",
+  "unv": "from search results of AMNH's 2026 instructions PDF"
+ },
+ {
+  "id": "smithsonian-institution-fellowship-program",
+  "n": "Smithsonian Institution Fellowship Program (SIFP)",
+  "f": "Smithsonian Institution",
+  "c": "Postdoc fellowship",
+  "s": "watch",
+  "d": null,
+  "dt": "The 2027-28 deadline was Oct 15, 2026 (passed); fellowships run Jun 1 to May 30, with decisions in mid-March. Next call expected around Oct 2027",
+  "a": "Predoctoral $45,000 a year plus up to $5,000 research; postdoctoral about $57,000 to $60,000 (sources differ); 10-week graduate fellowships $10,000",
+  "e": "Predoctoral (enrolled PhD candidates), postdoctoral (doctorate done by the start) and senior (PhD 5+ years) fellows work with Smithsonian staff, including the National Museum of Natural History. Apply through SOLAA.",
+  "u": "https://fellowships.si.edu/SIFP",
+  "fields": [
+   "orni",
+   "eco",
+   "evo",
+   "color",
+   "vision",
+   "behav"
+  ],
+  "stages": [
+   "gr",
+   "pd"
+  ],
+  "us": false,
+  "nom": false,
+  "added": "2026-11-09",
+  "checked": "2026-11-09",
+  "unv": "the official page looked outdated; amounts from aggregators"
+ },
+ {
+  "id": "field-museum-visiting-scholarships",
+  "n": "Field Museum Science Visiting Scholarships",
+  "f": "The Field Museum",
+  "c": "Travel & small grant",
+  "s": "watch",
+  "d": null,
+  "dt": "The page said applications would open in fall 2026; no deadline found",
+  "a": "not confirmed",
+  "e": "Visits of up to three months for collection-based research. Needs an endorsing Field Museum sponsor, so contact one first. The Field Museum also lists graduate fellowships, postdoctoral fellowships and Bass Senior Visiting Fellowships.",
+  "u": "https://www.fieldmuseum.org/science-visiting-scholarships",
+  "fields": [
+   "orni",
+   "evo",
+   "eco",
+   "color"
+  ],
+  "stages": [
+   "gr",
+   "pd"
+  ],
+  "us": false,
+  "nom": false,
+  "added": "2026-11-09",
+  "checked": "2026-11-09",
+  "unv": "from search results: confirm dates, amounts and eligibility"
+ },
+ {
+  "id": "field-museum-postdoctoral-fellowships",
+  "n": "Field Museum Postdoctoral Fellowships",
+  "f": "The Field Museum",
+  "c": "Postdoc fellowship",
+  "s": "watch",
+  "d": null,
+  "dt": "Dates not found",
+  "a": "not confirmed",
+  "e": "Postdoctoral research positions at the Field Museum, which holds a large bird collection.",
+  "u": "https://www.fieldmuseum.org/postdoctoral-fellowships",
+  "fields": [
+   "orni",
+   "evo",
+   "eco",
+   "color"
+  ],
+  "stages": [
+   "pd"
+  ],
+  "us": false,
+  "nom": false,
+  "added": "2026-11-09",
+  "checked": "2026-11-09",
+  "unv": "listed in search results only: read the page for terms"
+ },
+ {
+  "id": "carnegie-livezey-collection-study-grants",
+  "n": "Bradley C. Livezey Collection Study Grants",
+  "f": "Carnegie Museum of Natural History",
+  "c": "Travel & small grant",
+  "s": "watch",
+  "d": null,
+  "dt": "Cycle not confirmed",
+  "a": "$500 to $1,500, partly covering travel (search result)",
+  "e": "Grants for bird research using the Carnegie Museum's collections.",
+  "u": "https://carnegiemnh.org/wp-content/uploads/2025/09/LivezeyGrantApplication.pdf",
+  "fields": [
+   "orni",
+   "evo",
+   "color"
+  ],
+  "stages": [
+   "gr",
+   "pd"
+  ],
+  "us": false,
+  "nom": false,
+  "added": "2026-11-09",
+  "checked": "2026-11-09",
+  "unv": "from the application PDF in search results: confirm dates and eligibility"
+ },
+ {
+  "id": "burke-museum-collections-study-grants",
+  "n": "Burke Museum Collections Study Grants",
+  "f": "Burke Museum, University of Washington",
+  "c": "Travel & small grant",
+  "s": "open",
+  "d": "2026-12-15",
+  "dt": "2027 cycle due Dec 15, 2026; the application link will be posted on the page",
+  "a": "not confirmed",
+  "e": "Graduate students and postdocs visiting Burke collections. Special weight to Pacific Northwest projects and to projects spanning more than one collection.",
+  "u": "https://www.burkemuseum.org/collections-and-research/collections-study-grants",
+  "fields": [
+   "orni",
+   "evo",
+   "eco",
+   "color"
+  ],
+  "stages": [
+   "gr",
+   "pd"
+  ],
+  "us": false,
+  "nom": false,
+  "added": "2026-11-09",
+  "checked": "2026-11-09",
+  "unv": "amount not read"
+ }
+]

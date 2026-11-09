@@ -1,0 +1,401 @@
+[
+ {
+  "id": "nsf-prfb",
+  "n": "NSF Postdoctoral Research Fellowships in Biology (PRFB)",
+  "f": "U.S. National Science Foundation",
+  "c": "Postdoc fellowship",
+  "s": "open",
+  "d": "2027-09-28",
+  "dt": "Full proposals due Sep 28, 2027, 5 p.m. local time (then the fourth Tuesday in September each year). The Sep 29, 2026 deadline has passed.",
+  "a": "$110,000/yr ($85,000 stipend + $25,000 research allowance) for 24 months; $220,000 total",
+  "e": "US citizens, nationals and permanent residents with a doctorate by the start date and no more than 15 months in doctoral-level jobs. Solicitation NSF 26-504 has one focus: AI and the biological sciences for biotechnology. Two lifetime submissions, one per year.",
+  "u": "https://www.nsf.gov/funding/opportunities/prfb-postdoctoral-research-fellowships-biology/nsf26-504/solicitation",
+  "fields": [
+   "all"
+  ],
+  "stages": [
+   "gr",
+   "pd"
+  ],
+  "us": true,
+  "nom": false,
+  "checked": "2026-11-05",
+  "added": "2026-11-05"
+ },
+ {
+  "id": "nsf-grfp",
+  "n": "NSF Graduate Research Fellowship Program (GRFP)",
+  "f": "U.S. National Science Foundation",
+  "c": "Graduate fellowship",
+  "s": "watch",
+  "d": null,
+  "dt": "2027 competition (NSF 26-526) Life Sciences deadline was Oct 19, 2026; reference letters were due Oct 16. Next cycle expected around Oct 2027.",
+  "a": "$37,000/yr stipend plus $16,000/yr cost-of-education to the institution; 3 years of support within 5 years (about $159,000)",
+  "e": "US citizens, nationals and permanent residents. Open to college seniors, bachelor's holders not yet in grad school, and first-year grad students (one try only once enrolled); second-year grad students are not eligible. Research-based STEM master's or PhD programs only.",
+  "u": "https://www.nsf.gov/funding/opportunities/grfp-nsf-graduate-research-fellowship-program/nsf26-526/solicitation",
+  "fields": [
+   "all"
+  ],
+  "stages": [
+   "ug",
+   "gr"
+  ],
+  "us": true,
+  "nom": false,
+  "checked": "2026-11-05",
+  "added": "2026-11-05"
+ },
+ {
+  "id": "nsf-career-bio",
+  "n": "NSF Faculty Early Career Development Program (CAREER), Biological Sciences",
+  "f": "U.S. National Science Foundation",
+  "c": "Career award",
+  "s": "watch",
+  "d": null,
+  "dt": "Deadline is the fourth Wednesday in July each year (last was Jul 22, 2026); the 2027 date would be Jul 28 but is not yet confirmed on a current NSF page.",
+  "a": "BIO minimum $500,000 over 5 years",
+  "e": "Untenured assistant professors (or equivalent) at US institutions who integrate research and education. Eligibility is judged at the deadline. CAREER proposals in biology can go to BIO Core topics but follow the CAREER solicitation (NSF 22-586).",
+  "u": "https://www.nsf.gov/funding/opportunities/career-faculty-early-career-development-program",
+  "fields": [
+   "eco",
+   "evo",
+   "behav",
+   "vision",
+   "color",
+   "devo"
+  ],
+  "stages": [
+   "tt"
+  ],
+  "us": false,
+  "nom": false,
+  "cd": true,
+  "unv": "Could not load the NSF CAREER solicitation page itself; the July rule and BIO minimum come from NSF's May 2026 BIO virtual office hours slides (nsf-gov-resources.nsf.gov) and an NSF webinar page.",
+  "checked": "2026-11-05",
+  "added": "2026-11-05"
+ },
+ {
+  "id": "nsf-bio-core",
+  "n": "NSF Core Research in Biological Sciences (BIO Core; replaces MCB and IOS core programs)",
+  "f": "U.S. National Science Foundation",
+  "c": "Research grant",
+  "s": "rolling",
+  "d": null,
+  "dt": "Proposals accepted anytime. Solicitation NSF 26-517 replaced the separate MCB (NSF 24-539), IOS (NSF 24-546) and DEB core solicitations.",
+  "a": "Range of budgets, up to 5 years; about $280M in total for an estimated 250-300 awards",
+  "e": "US universities and colleges, US nonprofit research organizations, and Tribal Nations. No limits on proposals per PI. Covers former MCB (cellular dynamics, genetic mechanisms, biophysics, systems/synthetic biology) and IOS (development, neural, physiological, behavioral systems) science.",
+  "u": "https://www.nsf.gov/funding/opportunities/bio-core-core-research-biological-sciences/nsf26-517/solicitation",
+  "fields": [
+   "eco",
+   "evo",
+   "behav",
+   "vision",
+   "color",
+   "devo"
+  ],
+  "stages": [
+   "tt"
+  ],
+  "us": false,
+  "nom": false,
+  "checked": "2026-11-05",
+  "added": "2026-11-05"
+ },
+ {
+  "id": "nsf-reu-sites",
+  "n": "NSF Research Experiences for Undergraduates (REU) Sites",
+  "f": "U.S. National Science Foundation",
+  "c": "Undergraduate program",
+  "s": "watch",
+  "d": null,
+  "dt": "Students apply directly to individual REU Sites, each with its own deadline (many in winter for the following summer). Faculty proposals to host a site are due the third Wednesday in August.",
+  "a": "Paid summer research; stipend and support set by each site",
+  "e": "Undergraduates (and accepted high school graduates not yet in college) who are US citizens, nationals or permanent residents. Find sites through NSF's REU directory; many use NSF's ETAP application system.",
+  "u": "https://www.nsf.gov/funding/opportunities/reu-research-experiences-undergraduates/nsf23-601/solicitation",
+  "fields": [
+   "all"
+  ],
+  "stages": [
+   "ug"
+  ],
+  "us": true,
+  "nom": false,
+  "checked": "2026-11-05",
+  "added": "2026-11-05"
+ },
+ {
+  "id": "hhmi-hanna-gray-fellows",
+  "n": "HHMI Hanna H. Gray Fellows Program",
+  "f": "Howard Hughes Medical Institute",
+  "c": "Postdoc fellowship",
+  "s": "open",
+  "d": "2026-12-15",
+  "dt": "Application opened Nov 3, 2026; due Dec 15, 2026, 5 PM ET",
+  "a": "Postdoc salary plus yearly expense funds for up to 2 years; faculty-phase support as Freeman Hrabowski Scholars (dollar amount not listed on page)",
+  "e": "PhD/MD with no more than 7 years of postdoctoral experience as of Dec 15, 2026, in basic biological or biomedical science at an HHMI-eligible institution. Must plan to start a tenure-track job by May 1, 2030. Must be authorized to work in the US (no citizenship requirement).",
+  "u": "https://www.hhmi.org/hgf-mpd",
+  "fields": [
+   "all"
+  ],
+  "stages": [
+   "pd"
+  ],
+  "us": false,
+  "nom": false,
+  "checked": "2026-11-05",
+  "added": "2026-11-05"
+ },
+ {
+  "id": "lsrf-postdoc-fellowship",
+  "n": "LSRF Postdoctoral Fellowship",
+  "f": "Life Sciences Research Foundation",
+  "c": "Postdoc fellowship",
+  "s": "watch",
+  "d": null,
+  "dt": "Next call expected summer 2027 (last cycle closed Oct 1, 2026; letters due Nov 1, 2026)",
+  "a": "not listed (number of awards depends on fundraising)",
+  "e": "Within 5 years of PhD/MD/DVM as of the deadline; can apply before defending. Open to US and non-US citizens; non-US citizens must work in a US lab. Basic life sciences.",
+  "u": "https://lsrf.org/apply/",
+  "fields": [
+   "all"
+  ],
+  "stages": [
+   "gr",
+   "pd"
+  ],
+  "us": false,
+  "nom": false,
+  "checked": "2026-11-05",
+  "added": "2026-11-05"
+ },
+ {
+  "id": "embo-postdoctoral-fellowship",
+  "n": "EMBO Postdoctoral Fellowships",
+  "f": "European Molecular Biology Organization",
+  "c": "Postdoc fellowship",
+  "s": "open",
+  "d": "2027-01-22",
+  "dt": "Applications accepted all year; next cut-off Jan 22, 2027, 14:00 CET",
+  "a": "Salary/stipend, relocation allowance and child support for up to 2 years",
+  "e": "PhD within 2 years of application and at least one first-author paper. Must change country; mobility rules depend on EMBC member and partner countries. Hosted mainly in Europe.",
+  "u": "https://www.embo.org/fellowships/postdoctoral-fellowships/",
+  "fields": [
+   "all"
+  ],
+  "stages": [
+   "gr",
+   "pd"
+  ],
+  "us": false,
+  "nom": false,
+  "checked": "2026-11-05",
+  "added": "2026-11-05"
+ },
+ {
+  "id": "hfsp-long-term-fellowship",
+  "n": "HFSP Long-Term Fellowship",
+  "f": "Human Frontier Science Program Organization",
+  "c": "Postdoc fellowship",
+  "s": "watch",
+  "d": null,
+  "dt": "Next call expected spring 2027 (2027 fellowships: LOI by May 2026, full proposal Sept 24, 2026)",
+  "a": "3-year fellowship (amount not confirmed)",
+  "e": "PhD in biology; aimed at researchers moving to a new country for frontier life-science research.",
+  "u": "https://www.hfsp.org/funding/hfsp-funding/postdoctoral-fellowships",
+  "fields": [
+   "all"
+  ],
+  "stages": [
+   "pd"
+  ],
+  "us": false,
+  "nom": false,
+  "checked": "2026-11-05",
+  "added": "2026-11-05",
+  "unv": "Official hfsp.org page could not be fetched; dates confirmed via host-institution notices"
+ },
+ {
+  "id": "hfsp-cross-disciplinary-fellowship",
+  "n": "HFSP Cross-Disciplinary Fellowship",
+  "f": "Human Frontier Science Program Organization",
+  "c": "Postdoc fellowship",
+  "s": "watch",
+  "d": null,
+  "dt": "Next call expected spring 2027 (same timeline as Long-Term Fellowships)",
+  "a": "3-year fellowship (amount not confirmed)",
+  "e": "For PhDs from non-biology fields (physics, chemistry, math, engineering, CS) who have not worked in life sciences and want to move into biology in a new country.",
+  "u": "https://www.hfsp.org/funding/hfsp-funding/postdoctoral-fellowships",
+  "fields": [
+   "all"
+  ],
+  "stages": [
+   "pd"
+  ],
+  "us": false,
+  "nom": false,
+  "checked": "2026-11-05",
+  "added": "2026-11-05",
+  "unv": "Official hfsp.org page could not be fetched; details confirmed via host-institution notices"
+ },
+ {
+  "id": "nih-f32-parent",
+  "n": "NIH NRSA Individual Postdoctoral Fellowship (Parent F32)",
+  "f": "National Institutes of Health",
+  "c": "Postdoc fellowship",
+  "s": "open",
+  "d": "2026-12-08",
+  "dt": "F-series standard dates Apr 8, Aug 8, Dec 8 (next Dec 8, 2026). Parent NOFO PA-25-423 expires May 2028.",
+  "a": "NRSA stipend ($63,480-$77,076 in FY2026 by experience) plus allowance, up to 3 years",
+  "e": "Postdocs; citizen, national or permanent resident by award. NCI stopped accepting F32s in Dec 2024; check that your target institute participates.",
+  "u": "https://grants.nih.gov/funding/explore-nih-opportunities/parent-announcements",
+  "fields": [
+   "vision",
+   "neuro"
+  ],
+  "stages": [
+   "pd"
+  ],
+  "us": true,
+  "nom": false,
+  "checked": "2026-11-05",
+  "added": "2026-11-05"
+ },
+ {
+  "id": "nih-k99-r00",
+  "n": "NIH Pathway to Independence Award (Parent K99/R00)",
+  "f": "National Institutes of Health",
+  "c": "Career award",
+  "s": "open",
+  "d": "2026-11-12",
+  "dt": "Resubmissions Nov 12, 2026; new applications Feb 12, 2027 (last new date under PA-24-193/PA-24-194, which expire May 2027; a reissue is expected).",
+  "a": "K99 up to 2 years mentored; R00 up to 3 years at up to $249,000 total costs/yr",
+  "e": "Postdocs with no more than 4 years of postdoctoral experience at the due date; no citizenship requirement. NCI left the parent K99 in 2025 and runs its own version. NIH gave temporary eligibility extensions after the 2025 funding lapse (NOT-OD-26-021).",
+  "u": "https://grants.nih.gov/grants/guide/pa-files/PA-24-194.html",
+  "fields": [
+   "vision"
+  ],
+  "stages": [
+   "pd"
+  ],
+  "us": false,
+  "nom": false,
+  "cd": true,
+  "checked": "2026-11-05",
+  "added": "2026-11-05"
+ },
+ {
+  "id": "hhmi-gilliam-fellows",
+  "n": "HHMI Gilliam Fellows Program",
+  "f": "Howard Hughes Medical Institute",
+  "c": "Graduate fellowship",
+  "s": "watch",
+  "d": null,
+  "dt": "2027 competition closed Oct 27, 2026; next call expected to open around Sep 2027",
+  "a": "Up to $65,000/yr for up to 3 years ($50K stipend, $5K discretionary, $10K institutional allowance)",
+  "e": "Student and PhD adviser apply together; student must be in year 2 or 3 of a biological/biomedical PhD (MD-PhD eligible). The adviser completes a year-long HHMI mentoring course. International students who can be funded by their institution are eligible; the 2027 guide lists no institutional nomination step.",
+  "u": "https://www.hhmi.org/programs/gilliam-fellows",
+  "fields": [
+   "all"
+  ],
+  "stages": [
+   "gr"
+  ],
+  "us": false,
+  "nom": false,
+  "checked": "2026-11-05",
+  "added": "2026-11-05"
+ },
+ {
+  "id": "fulbright-us-student",
+  "n": "Fulbright U.S. Student Program",
+  "f": "U.S. Department of State",
+  "c": "Training & travel",
+  "s": "watch",
+  "d": null,
+  "dt": "2027-28 competition opened Mar 31, 2026; national deadline not confirmed; next competition expected to open around spring 2027",
+  "a": "not listed",
+  "e": "Funds study, research, or teaching abroad for US citizens who are graduating seniors, recent grads, or grad students. Enrolled students usually apply through a campus Fulbright adviser, who sets an earlier deadline.",
+  "u": "https://us.fulbrightonline.org/",
+  "fields": [
+   "all"
+  ],
+  "stages": [
+   "ug",
+   "gr"
+  ],
+  "us": true,
+  "nom": false,
+  "checked": "2026-11-05",
+  "added": "2026-11-05",
+  "unv": "Official Fulbright site could not be fetched; dates come from university advising pages."
+ },
+ {
+  "id": "simons-collaborations-ecology-evolution",
+  "n": "Simons Collaborations in Ecology and Evolution",
+  "f": "Simons Foundation",
+  "c": "Research grant",
+  "s": "watch",
+  "d": null,
+  "dt": "2027 cycle closed (vision statements were due Oct 16, 2025); next call not yet posted",
+  "a": "$1–4M per year per collaboration for 5 years, renewable",
+  "e": "Team grants for faculty-level PIs with research space; no citizenship rule. No funding to institutions in China or Hong Kong.",
+  "u": "https://www.simonsfoundation.org/grant/simons-collaborations-in-ecology-and-evolution/",
+  "fields": [
+   "eco",
+   "evo"
+  ],
+  "stages": [
+   "tt"
+  ],
+  "us": false,
+  "nom": false,
+  "checked": "2026-11-05",
+  "added": "2026-11-05"
+ },
+ {
+  "id": "packard-fellowships",
+  "n": "Packard Fellowships for Science and Engineering",
+  "f": "David and Lucile Packard Foundation",
+  "c": "Career award",
+  "s": "watch",
+  "d": null,
+  "dt": "Next cycle expected to start around Jan 2027 (2026 cycle: nominations due Mar 15, 2026; materials due Apr 20, 2026)",
+  "a": "$875,000 over 5 years",
+  "e": "Faculty in the first three years of their careers in natural/physical sciences (including biology) or engineering; clinical research is not funded. Presidents of 50 invited universities may nominate up to two candidates each.",
+  "u": "https://www.packard.org/what-we-fund/science/packard-fellowships-for-science-and-engineering/",
+  "fields": [
+   "all"
+  ],
+  "stages": [
+   "tt"
+  ],
+  "us": false,
+  "nom": true,
+  "unv": "2027 dates not posted; Packard is nomination-only, so check with the Princeton Dean for Research whether Princeton is invited in 2027",
+  "checked": "2026-11-05",
+  "added": "2026-11-05"
+ },
+ {
+  "id": "sloan-research-fellowships",
+  "n": "Sloan Research Fellowships",
+  "f": "Alfred P. Sloan Foundation",
+  "c": "Career award",
+  "s": "watch",
+  "d": null,
+  "dt": "Next nomination window expected mid-2027 (2027 fellowships closed Sept 15, 2026)",
+  "a": "$75,000 over 2 years",
+  "e": "Tenure-track, untenured faculty at US or Canadian degree-granting institutions with a PhD in chemistry, computer science, Earth system science, economics, mathematics, neuroscience, physics, or a related field. Life scientists are eligible mainly through neuroscience; there is no separate molecular or computational biology category. Requires a nomination letter from a department head or senior researcher.",
+  "u": "https://sloan.org/fellowships",
+  "fields": [
+   "all"
+  ],
+  "stages": [
+   "tt"
+  ],
+  "us": false,
+  "nom": true,
+  "unv": "Official Sloan page read showed outdated (2025-cycle) dates; the Sept 15, 2026 closing date came from a secondary listing.",
+  "checked": "2026-11-05",
+  "added": "2026-11-05"
+ }
+]

@@ -1,0 +1,378 @@
+[
+ {
+  "id": "aos-kessel-fellowships",
+  "n": "AOS Kessel Fellowships",
+  "f": "American Ornithological Society",
+  "c": "Postdoc fellowship",
+  "s": "watch",
+  "d": null,
+  "dt": "Application currently closed; the 2026 cycle is complete. Next deadline not posted on the page",
+  "a": "$15,000 each for ornithological research; one $30,000 award for Arctic research",
+  "e": "Early-career researchers: PhD within ten years of the application, or postdocs and PhD students expecting a doctorate. AOS membership is required for citizens of listed countries, including the US and UK.",
+  "u": "https://americanornithology.org/awards-grants/research-grants/kessel-fellowships/",
+  "fields": [
+   "orni",
+   "eco",
+   "evo",
+   "behav",
+   "vision",
+   "color"
+  ],
+  "stages": [
+   "pd",
+   "gr"
+  ],
+  "us": false,
+  "nom": false,
+  "added": "2026-11-09",
+  "checked": "2026-11-09",
+  "unv": "next deadline date not found on the page"
+ },
+ {
+  "id": "aos-student-postdoc-research-grants",
+  "n": "AOS Student and Postdoctoral Research Grants",
+  "f": "American Ornithological Society",
+  "c": "Research grant",
+  "s": "watch",
+  "d": null,
+  "dt": "Application period closed; applicants hear by May 1. Exact deadline not found on the page",
+  "a": "Up to $4,000",
+  "e": "AOS member who is an undergraduate, master's or doctoral student, or a postdoc without access to funds from major granting agencies. One grant per year and two per lifetime. Single PDF of 8 pages or fewer through the AOS Member Portal. Named funds include Bleitz, Carnes, Ficken, Grinnell, Hesse, Mewaldt-King, Nice, Van Tyne and Wetmore.",
+  "u": "https://americanornithology.org/awards-grants/research-grants/student-research-grants/",
+  "fields": [
+   "orni",
+   "eco",
+   "evo",
+   "behav",
+   "vision",
+   "color"
+  ],
+  "stages": [
+   "ug",
+   "gr",
+   "pd"
+  ],
+  "us": false,
+  "nom": false,
+  "added": "2026-11-09",
+  "checked": "2026-11-09",
+  "unv": "exact deadline not found on the page"
+ },
+ {
+  "id": "bou-small-research-grants",
+  "n": "BOU Small Ornithological Research Grants",
+  "f": "British Ornithologists' Union",
+  "c": "Research grant",
+  "s": "watch",
+  "d": null,
+  "dt": "Closed Oct 30, 2026 (for 2027 awards). The next round has not been posted",
+  "a": "Up to £2,000",
+  "e": "Open to BOU members only, except applicants who live and work in a low- or middle-income country. Any aspect of ornithology.",
+  "u": "https://www.bou.org.uk/grants-and-bursaries/small-research-grants/",
+  "fields": [
+   "orni",
+   "eco",
+   "evo",
+   "behav",
+   "vision",
+   "color"
+  ],
+  "stages": [
+   "gr",
+   "pd",
+   "tt"
+  ],
+  "us": false,
+  "nom": false,
+  "added": "2026-11-09",
+  "checked": "2026-11-09",
+  "unv": "next round not posted"
+ },
+ {
+  "id": "sse-greg-lewontin",
+  "n": "SSE Graduate Research Excellence Grants: R. C. Lewontin Early Award",
+  "f": "Society for the Study of Evolution",
+  "c": "Research grant",
+  "s": "watch",
+  "d": null,
+  "dt": "2026 deadline was May 18, 2026 (not February). The 2027 date is not posted yet",
+  "a": "Up to $2,500",
+  "e": "SSE members enrolled in a master's or PhD program, early stage (2026 cycle: program start on or after May 18, 2024 and finishing after May 18, 2027). Any institution, no citizenship requirement. One prior award per applicant. Dates shift each year.",
+  "u": "https://www.evolutionsociety.org/content/society-awards-and-prizes/graduate-research-excellence-grants.html",
+  "fields": [
+   "evo",
+   "behav",
+   "color",
+   "eco",
+   "devo"
+  ],
+  "stages": [
+   "gr"
+  ],
+  "us": false,
+  "nom": false,
+  "added": "2026-11-09",
+  "checked": "2026-11-09",
+  "unv": "2027 deadline not posted"
+ },
+ {
+  "id": "sse-greg-rosemary-grant",
+  "n": "SSE Graduate Research Excellence Grants: Rosemary Grant Advanced Award",
+  "f": "Society for the Study of Evolution",
+  "c": "Research grant",
+  "s": "watch",
+  "d": null,
+  "dt": "2026 deadline was May 18, 2026 (not February). The 2027 date is not posted yet",
+  "a": "Up to $3,500",
+  "e": "SSE members in a PhD program who started before May 18, 2024 and will defend after May 18, 2027 (2026 cycle). Any institution, no citizenship requirement. One prior award per applicant.",
+  "u": "https://www.evolutionsociety.org/content/society-awards-and-prizes/graduate-research-excellence-grants.html",
+  "fields": [
+   "evo",
+   "behav",
+   "color",
+   "eco",
+   "devo"
+  ],
+  "stages": [
+   "gr"
+  ],
+  "us": false,
+  "nom": false,
+  "added": "2026-11-09",
+  "checked": "2026-11-09",
+  "unv": "2027 deadline not posted"
+ },
+ {
+  "id": "abs-student-research-grants",
+  "n": "Animal Behavior Society Student Research Grants",
+  "f": "Animal Behavior Society",
+  "c": "Research grant",
+  "s": "open",
+  "d": "2026-12-15",
+  "dt": "2026-2027 cycle open; deadline Dec 15, 2026 (from the society's homepage)",
+  "a": "not confirmed (historically $500 to $2,000)",
+  "e": "Graduate students; ABS membership and a one-application limit were requirements in earlier cycles.",
+  "u": "https://www.animalbehaviorsociety.org/",
+  "fields": [
+   "behav",
+   "vision",
+   "color",
+   "eco"
+  ],
+  "stages": [
+   "gr"
+  ],
+  "us": false,
+  "nom": false,
+  "added": "2026-11-09",
+  "checked": "2026-11-09",
+  "unv": "amount and eligibility not confirmed: the grant page linked from the homepage returns 404"
+ },
+ {
+  "id": "linnesys-systematics-research-fund",
+  "n": "LinneSys (Systematics Research Fund)",
+  "f": "Systematics Association and Linnean Society of London",
+  "c": "Research grant",
+  "s": "watch",
+  "d": null,
+  "dt": "2026 call closed. Annual round; the 2027 dates are not posted",
+  "a": "Up to £1,500 per award",
+  "e": "Current member of the Systematics Association or the Linnean Society; all nationalities welcome. Small-scale systematics projects. (The old systass.org SRF page is stale.)",
+  "u": "https://systass.org/linnesys/",
+  "fields": [
+   "evo",
+   "orni"
+  ],
+  "stages": [
+   "gr",
+   "pd",
+   "tt"
+  ],
+  "us": false,
+  "nom": false,
+  "added": "2026-11-09",
+  "checked": "2026-11-09",
+  "unv": "2027 dates not posted"
+ },
+ {
+  "id": "bes-training-travel-grants",
+  "n": "BES Training and Travel Grants",
+  "f": "British Ecological Society",
+  "c": "Training & travel",
+  "s": "watch",
+  "d": null,
+  "dt": "Rolling in earlier years; current rounds not confirmed",
+  "a": "Historically up to £300",
+  "e": "Ecologists attending training or conferences; the host organization was expected to add support.",
+  "u": "https://www.britishecologicalsociety.org/funding/training-travel-grants/",
+  "fields": [
+   "eco",
+   "evo",
+   "behav"
+  ],
+  "stages": [
+   "gr",
+   "pd"
+  ],
+  "us": false,
+  "nom": false,
+  "added": "2026-11-09",
+  "checked": "2026-11-09",
+  "unv": "the BES site blocked automated checks: confirm everything on the page"
+ },
+ {
+  "id": "explorers-club-rolex-grant",
+  "n": "Rolex-Explorers Club Grant",
+  "f": "The Explorers Club",
+  "c": "Research grant",
+  "s": "watch",
+  "d": null,
+  "dt": "Posted deadline Sept 14, 2026 has passed; the FAQ says deadlines are usually Oct/Nov, so check for the 2027-28 cycle",
+  "a": "$10,000",
+  "e": "Young explorers (the FAQ says under 35) doing fieldwork on a novel scientific, environmental or historic question; two letters of support. Excludes work in China or by Chinese citizens. Other Explorers Club grants (Stephenson, Fjallraven, Exploration Fund, Rising Explorer) were listed as closed or rolling.",
+  "u": "https://www.explorers.org/grants/rolex-explorers-club-grant/",
+  "fields": [
+   "eco",
+   "field",
+   "orni",
+   "behav"
+  ],
+  "stages": [
+   "gr",
+   "pd",
+   "tt"
+  ],
+  "us": false,
+  "nom": false,
+  "added": "2026-11-09",
+  "checked": "2026-11-09",
+  "unv": "the page shows conflicting deadline dates"
+ },
+ {
+  "id": "esa-forrest-shreve-fund",
+  "n": "ESA Forrest Shreve Student Research Fund",
+  "f": "Ecological Society of America",
+  "c": "Research grant",
+  "s": "watch",
+  "d": null,
+  "dt": "Autumn deadline in past years (October); current date not confirmed",
+  "a": "$1,000 to $2,000",
+  "e": "ESA member graduate students doing ecological research in North American hot deserts.",
+  "u": "https://www.esa.org/about/awards",
+  "fields": [
+   "eco",
+   "field"
+  ],
+  "stages": [
+   "gr"
+  ],
+  "us": false,
+  "nom": false,
+  "added": "2026-11-09",
+  "checked": "2026-11-09",
+  "unv": "from search results and aggregators only: confirm on esa.org"
+ },
+ {
+  "id": "sicb-giar",
+  "n": "SICB Grants-in-Aid of Research (GIAR)",
+  "f": "Society for Integrative and Comparative Biology",
+  "c": "Research grant",
+  "s": "watch",
+  "d": null,
+  "dt": "Deadline not confirmed",
+  "a": "not confirmed",
+  "e": "Graduate students in integrative and comparative biology; SICB membership expected.",
+  "u": "https://sicb.org/",
+  "fields": [
+   "eco",
+   "evo",
+   "behav",
+   "vision",
+   "color",
+   "devo"
+  ],
+  "stages": [
+   "gr"
+  ],
+  "us": false,
+  "nom": false,
+  "added": "2026-11-09",
+  "checked": "2026-11-09",
+  "unv": "grant page not located: confirm everything"
+ },
+ {
+  "id": "ssb-mini-arts",
+  "n": "Society of Systematic Biologists Mini-ARTS Awards",
+  "f": "Society of Systematic Biologists",
+  "c": "Research grant",
+  "s": "rolling",
+  "d": null,
+  "dt": "Rolling per an aggregator listing; confirm",
+  "a": "Roughly $1,000 to $4,000 (aggregator)",
+  "e": "Small awards for taxonomic and systematics research.",
+  "u": "https://www.systbio.org/",
+  "fields": [
+   "evo"
+  ],
+  "stages": [
+   "gr",
+   "pd"
+  ],
+  "us": false,
+  "nom": false,
+  "added": "2026-11-09",
+  "checked": "2026-11-09",
+  "unv": "aggregator listing only: confirm on systbio.org"
+ },
+ {
+  "id": "simons-graduate-fellowships-ecology-evolution",
+  "n": "Simons Graduate Fellowships in Ecology and Evolution",
+  "f": "Simons Foundation",
+  "c": "Graduate fellowship",
+  "s": "watch",
+  "d": null,
+  "dt": "2027 call: letter of intent was due Jun 30, 2026; next call expected mid-2027",
+  "a": "not confirmed",
+  "e": "PhD students in ecology and evolution (see the request for applications for the current eligibility rules).",
+  "u": "https://www.simonsfoundation.org/grant/simons-graduate-fellowships-in-ecology-and-evolution/",
+  "fields": [
+   "eco",
+   "evo"
+  ],
+  "stages": [
+   "gr"
+  ],
+  "us": false,
+  "nom": false,
+  "added": "2026-11-09",
+  "checked": "2026-11-09",
+  "unv": "amount and eligibility not read from the RFA"
+ },
+ {
+  "id": "smithsonian-tupper-postdoc",
+  "n": "Earl S. Tupper Three-Year Postdoctoral Fellowship",
+  "f": "Smithsonian Tropical Research Institute",
+  "c": "Postdoc fellowship",
+  "s": "open",
+  "d": "2027-06-15",
+  "dt": "Due Jun 15, 2027; notification by Aug 30, 2027",
+  "a": "not confirmed",
+  "e": "Encourages applicants in ecology, evolutionary biology, conservation biology and related fields; work based at STRI in Panama.",
+  "u": "https://fellowships.si.edu/opportunity/3-year-tupper-postdoctoral-fellowship",
+  "fields": [
+   "eco",
+   "evo",
+   "orni",
+   "behav",
+   "cons"
+  ],
+  "stages": [
+   "pd"
+  ],
+  "us": false,
+  "nom": false,
+  "added": "2026-11-09",
+  "checked": "2026-11-09",
+  "unv": "amount and full eligibility not read from the page"
+ }
+]

@@ -1,0 +1,82 @@
+{
+ "pd": {
+  "title": "Tips for postdocs",
+  "items": [
+   {
+    "b": "The big general fellowships come first.",
+    "t": "NSF PRFB (US citizens, PRs and nationals; next full proposal Sep 28, 2027), HHMI Hanna Gray (due Dec 15, 2026), EMBO (Jan 22, 2027) and HFSP fit evolutionary and ecological work. NIH F32 and K99 fit best when framed through a vision-science mission such as the National Eye Institute."
+   },
+   {
+    "b": "Ornithology societies are small but quick.",
+    "t": "AOS Kessel ($15,000) and AOS research grants close in the autumn and winter and usually require membership. Join before the call opens."
+   },
+   {
+    "b": "Ask EEB about internal postdoc funds.",
+    "t": "Princeton's postdoc fellowships and the Presidential Postdoctoral Research Fellows are listed as unconfirmed here; the department office and the Office of the Dean of the Faculty have the current calls.",
+    "pu": true
+   }
+  ]
+ },
+ "gr": {
+  "title": "Tips for graduate students",
+  "items": [
+   {
+    "b": "Stack small grants.",
+    "t": "Society grants (SSE, AOS, ABS, BOU, AMNH Chapman, Sigma Xi) are $500 to $4,000 each and most require membership. Join the societies first, then apply to several."
+   },
+   {
+    "b": "Princeton money goes through SAFE.",
+    "t": "Travel, summer research and event funds are applied for in the Student Activity Funding Engine. Natural science students are normally supported over the summer by their department, so ask the EEB graduate office what is available.",
+    "pu": true
+   },
+   {
+    "b": "Check the year in every eligibility rule.",
+    "t": "SSE's early and advanced awards use start and defense dates tied to the call year, and several societies cap lifetime awards."
+   }
+  ]
+ },
+ "tt": {
+  "title": "Tips for early-career faculty",
+  "items": [
+   {
+    "b": "Few EEB-specific faculty programs recur yearly.",
+    "t": "NSF BIO core proposals are accepted anytime; NSF CAREER is due the fourth Wednesday in July. Sloan and Packard are nomination-only."
+   }
+  ]
+ },
+ "ug": {
+  "title": "Tips for undergraduates",
+  "items": [
+   {
+    "b": "REU sites and society grants.",
+    "t": "NSF REU sites have their own winter deadlines. AOS research grants and Sigma Xi Grants in Aid also accept undergraduates."
+   }
+  ]
+ },
+ "changes": [
+  {
+   "b": "NSF DEB and IOS no longer accept DDIGs.",
+   "t": "Dissertation Improvement Grants from the Division of Environmental Biology and the Division of Integrative Organismal Systems were discontinued, so ecology and evolution students rely on society and fellowship money. Existing awards are unaffected."
+  },
+  {
+   "b": "National Geographic dropped its open-call grants.",
+   "t": "The Level I and Level II tiers are gone. NGS now issues narrow Requests for Proposals; the one open on Nov 9, 2026 (The Human Thread, due Dec 1, 2026) is not a research-grant fit."
+  },
+  {
+   "b": "SSE graduate grants moved to May.",
+   "t": "The Lewontin and Rosemary Grant awards had a May 18, 2026 deadline, not February."
+  },
+  {
+   "b": "Several older list entries could not be confirmed.",
+   "t": "Ford Foundation fellowships (no current page found), the Zoological Lighting Institute grants (page returns 404) and a Colorado Mountain Club Foundation grant (no foundation program on cmc.org) are left out until a current page turns up."
+  },
+  {
+   "b": "GRFP 2027 dates conflict between sources.",
+   "t": "The catalog follows the Yale finder's check (Life Sciences deadline Oct 19, 2026). Confirm on the NSF solicitation page."
+  },
+  {
+   "b": "Princeton amounts changed.",
+   "t": "The Dean's Fund for Scholarly Travel is now up to $600 a year with a sole-authored-paper rule, and professional development group funding is typically up to $500."
+  }
+ ]
+}
