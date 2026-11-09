@@ -15,6 +15,8 @@ body{background:var(--bg);color:var(--ink);font-family:var(--body);font-size:15p
 .site-in{max-width:1200px;margin:0 auto;padding-left:max(20px,env(safe-area-inset-left,0px));padding-right:max(20px,env(safe-area-inset-right,0px))}
 .site-top-bar .site-in{padding-block:20px;display:flex;justify-content:space-between;align-items:baseline;gap:8px 16px;flex-wrap:wrap}
 .site-title{font-family:var(--body);font-weight:800;font-size:20px;letter-spacing:.04em;text-transform:uppercase;color:var(--ink)}
+a.site-title{text-decoration:none}
+a.site-title:hover,a.site-title:focus-visible{color:#B35900}
 .site-title small{font-size:11px;font-weight:600;letter-spacing:.06em}
 .site-meta{font-size:13px;color:var(--ink-3)}
 .site-navband{background:var(--site)}
