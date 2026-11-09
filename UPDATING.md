@@ -55,3 +55,7 @@ Verify each against the funder's page before relying on it; these are the patter
 ## Ideas to automate further
 - A scheduled Claude task each Monday that runs `engine/recheck_report.py`, reads the funder pages, drafts the edits and opens a pull request for a human to review. Keep a human in the loop for any change to a date.
 - A link checker in `check.yml` for the `u` URLs (many funder sites block bots, so treat failures as prompts to look, not errors).
+
+## Still to research
+Searches did not turn up official pages for these; read each funder's site and add a row if it fits:
+International Federation of Pigment Cell Societies fellowships, ISBE student grants, Vision Sciences Society travel, American Society of Naturalists student award, NSF GRIP, Smithsonian graduate fellowships, Florida Museum, Yale Peabody, KU Biodiversity Institute, MVZ Berkeley, Natural History Museum London (SYNTHESYS), Princeton's Lewis-Sigler Institute, Neuroscience Institute and Materials Institute postdocs, EEB department funds, and the Cornell Lab's Fuller program.
