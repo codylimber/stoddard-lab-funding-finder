@@ -13,7 +13,7 @@
 <style>
 [hidden]{display:none!important}
 :root{
-  color-scheme:light dark;
+  color-scheme:light;
   --bg:#F5F4F4; --surface:#FFFFFF; --surface-2:#ECEBEB; --ink:#111111; --ink-2:#3A3A3A; --ink-3:#5C5C5C;
   --line:#DAD8D8; --line-2:#B5B3B3; --accent:#1A1A1A; --accent-2:#E77500; --accent-ink:#FFFFFF; --accent-soft:#DCE9F0;
   --hot:#A24B00; --warm:#6E5316; --warm-soft:#F6EEDF; --ok:#1E5E32; --ok-soft:#E3F0E6; --mute-soft:#E7E6E6; --new:#1F7A4D; --site:#A9C6D6; --orange:#E77500;
@@ -179,13 +179,6 @@ footer#foot{font-size:13px;color:var(--ink-3);max-width:90ch}
 .btn:disabled{opacity:.45;cursor:default}
 .cal{font-size:12px;color:var(--ink-3);white-space:nowrap}.cal a{font-weight:500}
 
-@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#14161A; --surface:#1C1F24; --surface-2:#23272D; --ink:#F1F1F1; --ink-2:#CFCFCF; --ink-3:#A2A2A2;
-  --line:#32363D; --line-2:#4A4F58; --accent:#F08A24; --accent-2:#F5A55A; --accent-ink:#14161A; --accent-soft:#22313B;
-  --hot:#F0A070; --warm:#E3C47A; --warm-soft:#2E281A; --ok:#86D19C; --ok-soft:#18301F; --mute-soft:#2A2D33; --new:#2E8F5F; --site:#1F3440;}
-  :root:not([data-theme="light"]) a{color:#F5A55A} :root:not([data-theme="light"]) .tag{color:#BFD8E6} :root:not([data-theme="light"]) .stat b{color:#F5A55A} :root:not([data-theme="light"]) .fbtn[aria-pressed="true"],:root:not([data-theme="light"]) .stage[aria-pressed="true"]{color:#14161A}}
-:root[data-theme="dark"]{--bg:#14161A; --surface:#1C1F24; --surface-2:#23272D; --ink:#F1F1F1; --ink-2:#CFCFCF; --ink-3:#A2A2A2;
-  --line:#32363D; --line-2:#4A4F58; --accent:#F08A24; --accent-2:#F5A55A; --accent-ink:#14161A; --accent-soft:#22313B;
-  --hot:#F0A070; --warm:#E3C47A; --warm-soft:#2E281A; --ok:#86D19C; --ok-soft:#18301F; --mute-soft:#2A2D33; --new:#2E8F5F; --site:#1F3440;}
 .stage[aria-pressed="true"],.chip[aria-pressed="true"],.ptbtn[aria-pressed="true"],.btn.primary{color:var(--accent-ink)}
 header p{color:var(--ink-2)}
 a.btn{display:inline-block;text-decoration:none}a.btn.primary,a.btn.primary:hover{color:var(--accent-ink)}
@@ -229,7 +222,7 @@ a.btn{display:inline-block;text-decoration:none}a.btn.primary,a.btn.primary:hove
 
   <div class="elig">
     <span class="steplbl">Eligibility</span>
-    <label><input type="checkbox" id="atPU"> <b>I'm at Princeton</b>: show Princeton funds and internal steps</label>
+    <label><input type="checkbox" id="atPU"> <span><b>I'm at Princeton</b>: show Princeton funds and internal steps</span></label>
     <label><input type="checkbox" id="noUS"> Hide programs limited to US citizens and permanent residents</label>
     <label><input type="checkbox" id="noNom"> Hide programs that need a nomination or limited submission</label>
     <label><input type="checkbox" id="noCD"> Hide career development awards (K awards, NSF CAREER)</label>
