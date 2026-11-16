@@ -207,10 +207,10 @@
   "f": "American Philosophical Society",
   "c": "Research grant",
   "s": "open",
-  "d": "2026-11-16",
-  "dt": "Applications due Nov 16, 2026 and letters of support Nov 13, 2026; notification in April 2027",
-  "a": "Up to about $5,400 per award (third-party listing)",
-  "e": "Field research and exploration, with doctoral students the main applicants (two letters, one from the advisor). Projects start May 2027 or later. Reapplication allowed after two years; preference to first-time applicants.",
+  "d": "2026-11-17",
+  "dt": "Applications and letters of support were due Nov 16 and Nov 13, 2026; a banner on the APS page extends both to Nov 17, 2026. Notification in April 2027",
+  "a": "Several hundred dollars up to about $5,400",
+  "e": "Doctoral students only; postdocs, master's candidates and undergraduates are not eligible. U.S. citizens and residents, or foreign applicants based at or working in the U.S. Two letters, one from the advisor. Projects start May 2027 or later. Reapplication allowed after two years; preference to first-time applicants. Archival or museum-based projects are normally not considered.",
   "u": "https://www.amphilsoc.org/grants/research",
   "fields": [
    "eco",
@@ -224,8 +224,7 @@
   "us": false,
   "nom": false,
   "added": "2026-11-09",
-  "checked": "2026-11-09",
-  "unv": "postdoc eligibility and the amount are from secondary listings"
+  "checked": "2026-11-16"
  },
  {
   "id": "rufford-small-grants",

@@ -379,9 +379,9 @@
   "c": "Travel & small grant",
   "s": "open",
   "d": "2026-12-15",
-  "dt": "2027 cycle due Dec 15, 2026; the application link will be posted on the page",
-  "a": "not confirmed",
-  "e": "Graduate students and postdocs visiting Burke collections. Special weight to Pacific Northwest projects and to projects spanning more than one collection.",
+  "dt": "2027 cycle: applications due Dec 15, 2026; recipients notified by Jan 15, 2027",
+  "a": "Typically $500 to $2,000 for travel, housing and subsistence; housing limited to $150 per day",
+  "e": "Graduate students and postdocs visiting Burke collections. Special consideration for Pacific Northwest natural history or cultural heritage projects. Not available to researchers within daily commuting distance of the Burke. Heritage collections may need tribal permission.",
   "u": "https://www.burkemuseum.org/collections-and-research/collections-study-grants",
   "fields": [
    "orni",
@@ -396,7 +396,6 @@
   "us": false,
   "nom": false,
   "added": "2026-11-09",
-  "checked": "2026-11-09",
-  "unv": "amount not read"
+  "checked": "2026-11-16"
  }
 ]
