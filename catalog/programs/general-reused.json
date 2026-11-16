@@ -130,7 +130,7 @@
   "c": "Postdoc fellowship",
   "s": "open",
   "d": "2026-12-15",
-  "dt": "Application opened Nov 3, 2026; due Dec 15, 2026, 5 PM ET",
+  "dt": "Application opened Nov 3, 2026; closes Dec 15, 2026, 5 PM ET (2028 competition, combined with Freeman Hrabowski Scholars)",
   "a": "Postdoc salary plus yearly expense funds for up to 2 years; faculty-phase support as Freeman Hrabowski Scholars (dollar amount not listed on page)",
   "e": "PhD/MD with no more than 7 years of postdoctoral experience as of Dec 15, 2026, in basic biological or biomedical science at an HHMI-eligible institution. Must plan to start a tenure-track job by May 1, 2030. Must be authorized to work in the US (no citizenship requirement).",
   "u": "https://www.hhmi.org/hgf-mpd",
@@ -142,7 +142,7 @@
   ],
   "us": false,
   "nom": false,
-  "checked": "2026-11-05",
+  "checked": "2026-11-16",
   "added": "2026-11-05"
  },
  {
@@ -266,8 +266,8 @@
   "f": "National Institutes of Health",
   "c": "Career award",
   "s": "open",
-  "d": "2026-11-12",
-  "dt": "Resubmissions Nov 12, 2026; new applications Feb 12, 2027 (last new date under PA-24-193/PA-24-194, which expire May 2027; a reissue is expected).",
+  "d": "2027-02-12",
+  "dt": "Next new-application date Feb 12, 2027; next resubmission date Mar 12, 2027 (PA-24-194, expires May 8, 2027). The Nov 12, 2026 resubmission date has passed.",
   "a": "K99 up to 2 years mentored; R00 up to 3 years at up to $249,000 total costs/yr",
   "e": "Postdocs with no more than 4 years of postdoctoral experience at the due date; no citizenship requirement. NCI left the parent K99 in 2025 and runs its own version. NIH gave temporary eligibility extensions after the 2025 funding lapse (NOT-OD-26-021).",
   "u": "https://grants.nih.gov/grants/guide/pa-files/PA-24-194.html",
@@ -280,7 +280,7 @@
   "us": false,
   "nom": false,
   "cd": true,
-  "checked": "2026-11-05",
+  "checked": "2026-11-16",
   "added": "2026-11-05"
  },
  {
