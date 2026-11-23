@@ -303,8 +303,8 @@
   "n": "APS Lewis and Clark Fund for Exploration and Field Research",
   "f": "American Philosophical Society",
   "c": "Research grant",
-  "s": "open",
-  "d": "2026-11-16",
+  "s": "watch",
+  "d": null,
   "dt": "Applications due Nov 16, 2026 and letters of support Nov 13, 2026; notification in April 2027",
   "a": "Up to about $5,400 per award (third-party listing)",
   "e": "Field research and exploration, with doctoral students the main applicants (two letters, one from the advisor). Projects start May 2027 or later. Reapplication allowed after two years; preference to first-time applicants.",
@@ -560,7 +560,7 @@
   "us": false,
   "nom": false,
   "added": "2026-11-05",
-  "checked": "2026-11-05"
+  "checked": "2026-11-23"
  },
  {
   "id": "esa-forrest-shreve-fund",
@@ -779,7 +779,7 @@
   "us": false,
   "nom": false,
   "added": "2026-11-05",
-  "checked": "2026-11-05"
+  "checked": "2026-11-23"
  },
  {
   "id": "humboldt-research-fellowship",
@@ -1051,8 +1051,8 @@
   "n": "NIH Pathway to Independence Award (Parent K99/R00)",
   "f": "National Institutes of Health",
   "c": "Career award",
-  "s": "open",
-  "d": "2026-11-12",
+  "s": "watch",
+  "d": null,
   "dt": "Resubmissions Nov 12, 2026; new applications Feb 12, 2027 (last new date under PA-24-193/PA-24-194, which expire May 2027; a reissue is expected).",
   "a": "K99 up to 2 years mentored; R00 up to 3 years at up to $249,000 total costs/yr",
   "e": "Postdocs with no more than 4 years of postdoctoral experience at the due date; no citizenship requirement. NCI left the parent K99 in 2025 and runs its own version. NIH gave temporary eligibility extensions after the 2025 funding lapse (NOT-OD-26-021).",
